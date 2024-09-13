@@ -11,7 +11,11 @@ Insights and Recommendations :
 
 1) Perfomed Engagement depth analysis to segment customers into 3 categories. Most customers are occasional buyers or one time buyers with**regular customers only at 9.52 %**.<br />
 
+
+
     ![image](https://github.com/user-attachments/assets/c1c22ce4-3b35-418d-a353-3adf5cfd3b88)<br />
+
+    
 
 
 3) **Decline in Monthly Customer Acquisition** : Decrease in New Customer acqusition rate over the course of time . From Acquiring 26 new customers in Mar 23 to 1 new customer in Feb 24. Indicating effectiveness or need of marketing campaigns and market expansion efforts<br />
